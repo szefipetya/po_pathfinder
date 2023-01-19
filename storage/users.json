@@ -1,0 +1,110 @@
+[
+    {
+        "id": 0,
+        "email": "example@something.com",
+        "password": "$2y$10$jbJ5jyZA\/s73HvrwYAOs3OkfYMtKmqcyOB1TC.dPFNM\/xX3.vxpwm",
+        "fullname": "example",
+        "rank": "member",
+        "solved_maps": []
+    },
+    {
+        "id": 1,
+        "email": "uj2@uj2.hu",
+        "password": "$2y$10$XHdL25e9OTW8rqo84Zfy\/u.EfPWS9fZ63wSEH4WYCVxAsGwa9vaqO",
+        "fullname": "asduj2",
+        "rank": "member",
+        "solved_maps": []
+    },
+    {
+        "id": 2,
+        "email": "123@123.com",
+        "password": "$2y$10$Yt8nwRY9J7G3FG0XU9ylt.xtsoRXW5nm3SFqEmRaABmHmnDAo2YO2",
+        "fullname": "123123",
+        "rank": "member",
+        "solved_maps": []
+    },
+    {
+        "id": 3,
+        "email": "uj3@uj.com",
+        "password": "$2y$10$cIjdQSNBMEXhwWdxIH63puNKj0QiXASZb5.Pig9eH2Q4N1QJXudiG",
+        "fullname": "uj3",
+        "rank": "member",
+        "solved_maps": []
+    },
+    {
+        "id": 4,
+        "email": "111@111.com",
+        "password": "$2y$10$nc15sXSUj5lIbANRcxkEMubeAax49QCJ6KkzQ8RZmX9g3qPztlqxm",
+        "fullname": "111",
+        "rank": "member",
+        "solved_maps": [
+            "1",
+            "0"
+        ]
+    },
+    {
+        "id": 5,
+        "email": "new@new.hu",
+        "password": "$2y$10$Bkoc0ZprTAX4mXHSusC04OBovYmVc3kJBZaqLyBTMPOuJHmuF\/cNi",
+        "fullname": "new",
+        "rank": "member",
+        "solved_maps": [
+            "0",
+            "1"
+        ]
+    },
+    {
+        "id": 6,
+        "email": "admin@admin.hu",
+        "password": "$2y$10$n6qEvwDfNa96a2bYweTFIOzSvFREe0K.rjSkEZ246DICy9Oz6zd1q",
+        "fullname": "admin",
+        "rank": "admin",
+        "solved_maps": [
+            "0",
+            "1",
+            "2",
+            "5e127fcd6c742",
+            "5e1281800a6f8",
+            "634c29ab47157"
+        ]
+    },
+    {
+        "id": 7,
+        "email": "e2xample@something.com",
+        "password": "$2y$10$vfnt6r5oUhUPeLy1qoF92OGn43PidNrUWjbHGPhCv5D5Y2eeha\/rC",
+        "fullname": "example",
+        "rank": "member",
+        "solved_maps": [
+            "0",
+            "1",
+            "5e127fcd6c742"
+        ]
+    },
+    {
+        "id": 8,
+        "email": "e3xample@something.com",
+        "password": "$2y$10$Gl\/wwA8jLYw6PEOVc67syujPr4wquUpD.d4DiYRZY5C1u3DDPVIuW",
+        "fullname": "ex",
+        "rank": "member",
+        "solved_maps": {
+            "1": "1",
+            "5": "0"
+        }
+    },
+    {
+        "id": 9,
+        "email": "ujfiu@hu.hu",
+        "password": "$2y$10$PPwKF7jf6cki8b32a2KZBusXjunjf98Wa7x0Tof8XJQ3a6709W6sq",
+        "fullname": "ujfiu",
+        "rank": "member",
+        "solved_maps": []
+    },
+    {
+        "id": 10,
+        "email": "szefi.web@gmail.com",
+        "password": "$2y$10$XZE.w5xU23JLf6hANSx2ku3.vHXc9U0obVif4rXwT3MqLDEnWaJdy",
+        "fullname": "asdasd",
+        "rank": "member",
+        "solved_maps": []
+    }
+]
