@@ -1,4 +1,4 @@
-# Pathfinder [[galery]](https://drive.google.com/drive/folders/1fps828NRIq_MvhivQwwQgR5cgZPvLHL9?usp=share_link)
+# Pathfinder [[gallery]](https://drive.google.com/drive/folders/1fps828NRIq_MvhivQwwQgR5cgZPvLHL9?usp=share_link)
 
 Your task is to connect the color matched numbers with the cursor while filling up all blocks.
 - Right click to delete a path
